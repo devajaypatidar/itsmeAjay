@@ -1880,3 +1880,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+#certification{
+  padding-top: 35px;
+}
+
+.cert-detail {
+  padding: 25px;
+}
